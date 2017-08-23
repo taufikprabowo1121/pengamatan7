@@ -1,0 +1,5 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan7\Pengamatan7\bin\Debug\Pengamatan7.exe.config
+C:\Users\GeeksFarm\Documents\Visual Studio 2015\Projects\Pengamatan7\Pengamatan7\bin\Debug\Pengamatan7.exe
+C:\Users\GeeksFarm\Documents\Visual Studio 2015\Projects\Pengamatan7\Pengamatan7\bin\Debug\Pengamatan7.pdb
+C:\Users\GeeksFarm\Documents\Visual Studio 2015\Projects\Pengamatan7\Pengamatan7\obj\Debug\Pengamatan7.exe
+C:\Users\GeeksFarm\Documents\Visual Studio 2015\Projects\Pengamatan7\Pengamatan7\obj\Debug\Pengamatan7.pdb
